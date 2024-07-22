@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/win10sunvalley/.github/blob/main/branding.png"  />
+  <img height="100" src="https://raw.githubusercontent.com/win10sunvalley/.github/main/branding.png"  />
 </div>
 
 ###
